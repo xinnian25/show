@@ -11,5 +11,8 @@
 
 二、法律教育类项目（Legal Ace）
 
-苹果 iOS App Store  地址：https://apps.apple.com/app/legal-ace/id6744432724
-谷歌 Play 商店      地址：https://play.google.com/store/apps/details?id=com.barquest.barquest
+苹果 iOS App Store  
+地址：https://apps.apple.com/app/legal-ace/id6744432724
+
+谷歌 Play 商店      
+地址：https://play.google.com/store/apps/details?id=com.barquest.barquest
