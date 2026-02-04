@@ -1,3 +1,12 @@
 
-驾驶考试后台管理系统
-https://drivingadmin.glzpj.org/
+一、驾驶考试项目(使用需要翻墙，市场已下线，只能下载安卓包)
+
+驾驶考试APP安卓包下载地址：https://github.com/xinnian25/show/releases/tag/v1.0.0
+
+如果要看苹果APP只能传到TestFlight
+
+驾驶考试APP后台管理系统地址：https://drivingadmin.glzpj.org/
+
+驾驶考试官网地址：https://drivinggw.glzpj.org
+
+二、
