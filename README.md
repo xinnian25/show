@@ -9,7 +9,7 @@
 
 驾驶考试官网地址：https://drivinggw.glzpj.org
 
-二、法律教育类项目
+二、法律教育类项目（Legal Ace）
 
-苹果市场搜索 ： Legal Ace
-
+苹果 iOS App Store  地址：https://apps.apple.com/app/legal-ace/id6744432724
+谷歌 Play 商店      地址：https://play.google.com/store/apps/details?id=com.barquest.barquest
